@@ -1,0 +1,8 @@
+[project]
+name = "botbreeze"
+version = "1.0.0-alpha"
+description = "Simple UCI chess engine made in Python"
+dependencies = ["numpy", "python-chess"]
+
+[project.scripts]
+botbreeze = "engine.uci:main"
