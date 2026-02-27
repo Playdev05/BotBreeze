@@ -2,7 +2,7 @@
 
 A simple chess bot in python made just for fun :D
 
-![Static Badge](https://img.shields.io/badge/BotBreeze-%20v.%200.0.1-blue) [![Static Badge](https://img.shields.io/badge/Elo%20-1600-blue?logo=lichess)](https://lichess.org) ![Static Badge](https://img.shields.io/badge/Python%20Version-3.8%2B-blue) ![Static Badge](https://img.shields.io/badge/Status%20-Development-orange) ![Static Badge](https://img.shields.io/badge/License%20-BSD%203--clause-blue)
+![Static Badge](https://img.shields.io/badge/BotBreeze-%20v.%201.0.0alpha-blue) [![Static Badge](https://img.shields.io/badge/Elo%20-1600-blue?logo=lichess)](https://lichess.org) ![Static Badge](https://img.shields.io/badge/Python%20Version-3.8%2B-blue) ![Static Badge](https://img.shields.io/badge/Status%20-Development-orange) ![Static Badge](https://img.shields.io/badge/License%20-BSD%203--clause-blue)
 
 
 
