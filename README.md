@@ -29,6 +29,7 @@ Before you begin, ensure you have installed the following:
 - Git
 
 The installation is really simple:
+
 Clone the repository:
 ```bash
 git clone https://github.com/Playdev05/BotBreeze.git
