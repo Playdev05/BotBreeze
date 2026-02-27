@@ -27,6 +27,7 @@ Before you begin, ensure you have installed the following:
 - Python 3.8 or higher
 - Pip(Python package installer)
 - Git
+
 The installation is really simple:
 Clone the repository:
 ```bash
